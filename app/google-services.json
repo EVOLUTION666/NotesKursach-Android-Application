@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106779308650",
+    "firebase_url": "https://noteskursach.firebaseio.com",
+    "project_id": "noteskursach",
+    "storage_bucket": "noteskursach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106779308650:android:bca190445b9e6c1e061013",
+        "android_client_info": {
+          "package_name": "com.example.noteskursach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106779308650-rttais5ogq131tkv20bjm6cdhvjmnb18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noteskursach",
+            "certificate_hash": "2e2a58e02a565cba1de288504ebc6ce05e30f485"
+          }
+        },
+        {
+          "client_id": "106779308650-ntc6c210eucmoqk01j9ku2oip4c15mm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXevz7CNJa_L3xecCpO28a3_bT8PNBuAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106779308650-ntc6c210eucmoqk01j9ku2oip4c15mm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
